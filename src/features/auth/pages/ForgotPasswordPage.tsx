@@ -71,4 +71,4 @@ export function ForgotPasswordPage() {
       </form>
     </AuthLayout>
   )
-}
+            }
